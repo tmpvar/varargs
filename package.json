@@ -1,0 +1,22 @@
+{
+  "name": "varargs",
+  "version": "1.0.0",
+  "description": "turn arguments into an array",
+  "main": "varargs.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tmpvar/varargs.git"
+  },
+  "author": "Elijah Insua <tmpvar@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tmpvar/varargs/issues"
+  },
+  "homepage": "https://github.com/tmpvar/varargs",
+  "devDependencies": {
+    "tape": "^3.0.0"
+  }
+}
